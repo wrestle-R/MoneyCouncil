@@ -4,3 +4,5 @@
 .vscode
 AGENTS.md
 PROJECT_STORY.md
+
+/mobile/.env
